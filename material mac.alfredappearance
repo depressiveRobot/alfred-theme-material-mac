@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 7,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#A9A9A9FF",
+        "font" : "System Light",
+        "color" : "#919191FF"
+      },
+      "shortcut" : {
+        "size" : 12,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#929292FF"
+      },
+      "backgroundSelected" : "#FCFFFF7F",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#5E5E5EFF"
+      },
+      "iconPaddingHorizontal" : 27,
+      "paddingVertical" : 10,
+      "iconSize" : 32
+    },
+    "search" : {
+      "paddingVertical" : 10,
+      "background" : "#000000A7",
+      "spacing" : 0,
+      "text" : {
+        "size" : 30,
+        "colorSelected" : "#FEFFFFFF",
+        "font" : "System Light",
+        "color" : "#FEFFFFFF"
+      },
+      "backgroundSelected" : "#FEFFFF4D"
+    },
+    "window" : {
+      "color" : "#ECEAED99",
+      "paddingHorizontal" : 0,
+      "width" : 600,
+      "borderPadding" : 0,
+      "borderColor" : "#202020FF",
+      "blur" : 40,
+      "roundness" : -64,
+      "paddingVertical" : 0
+    },
+    "credit" : "depressiveRobot",
+    "separator" : {
+      "color" : "#E5E3E600",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#0000003F",
+      "thickness" : 3
+    },
+    "name" : "material mac"
+  }
+}
